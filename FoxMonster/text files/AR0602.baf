@@ -1,0 +1,8 @@
+IF
+Global("Z_ModdySpawned","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("Z_ModdySpawned","GLOBAL",1)
+CreateCreature("Z_Moddy",[2940.2860],2)
+Continue()
+END
