@@ -13,5 +13,5 @@ Particularité :
 - +1/2 APR
 
 Notes 
-- Moddie est pensée comme étant une renarde. Mais son animation est celle d'un loup (gris), son portrait est celui d'un blaireau (gris), sa métamorphe est en loup-garou, alors pour la concordance avec tous ces faits, la traduction française en a fait un loup.
+- Moddie est pensée comme étant une renarde. Mais son animation est celle d'un loup (gris), son portrait est celui d'un blaireau (gris), sa métamorphe est en loup-garou, alors pour la concordance avec tous ces faits, la traduction française en a fait une louve.
 - Sa RM est remplacée par la RM de sa forme de loup-garou quand elle se transforme. Sauf si vous installez une correction pour les formes de loup garou, disponibles dans Tweak Anthology ou SCS; dans ce cas elle se cumule.
