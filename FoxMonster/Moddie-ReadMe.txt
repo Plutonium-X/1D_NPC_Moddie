@@ -54,7 +54,7 @@ Version History:
 ----------------------------------------------------------------------
 
 Version 1.4
-- Corrected Charme person (previously taken from Beholders power and non valid for innate)
+- Corrected Charme person (previously taken from Beholders power and invalid for innate)
 - Added French translation
 - Added BG2EE and EET support
 
