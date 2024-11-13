@@ -1,0 +1,53 @@
+@0    = ~Moddie, "das Fuchs-Monster in Eurem Rucksack"~
+@1    = ~Notiz des Meisters~
+@2    = ~Ganz oben auf der Mitteilung steht "Moddie". Sie scheint mit dem Fell des Tiers verbunden zu sein, aber Ihr könnt sie entfernen. Das Geschriebene erscheint rätselhaft; offensichtlich eine Art Gedächtnisstütze für den Schreiber.
+
+"Von seinem Verhalten her war der Fuchs ein gutes Testobjekt, aber das Ergebnis war unbefriedigend. Das Ziel des Experimentes wurde nicht erreicht, dafür kann sich das Wesen jetzt in ein werwolfähnliches Monster verwandeln, ist in der Lage zu sprechen und kann sogar eine Waffe benutzen. Ich frage mich, ob es an dem Serum und dem Zauber liegt, oder ob die Natur des Tieres für diesen geringfügigen Fehler verantwortlich ist.
+
+Ich werde hier unten einen geeigneten Platz für dieses Wesen finden müssen, besser wäre eine Stachelgrube anstelle eines Käfigs. Aber im Moment bin ich zu sehr mit der Bhaalbrut beschäftigt--"~
+@3    = ~Moddie~
+@4    = ~Ouu!~ [Z_Modd1]
+@5    = ~*Quietsch!*~ [Z_Modd1]
+@6    = ~Schön hierrr...~ [Z_Modd2]
+@7    = ~Rrrr...~ [Z_Modd3]
+@8    = ~Av!~ [Z_Modd4]
+@9    = ~Hasse euch alle.~ [Z_Modd5]
+@10   = ~(böses Lachen)~ [Z_Modd6]
+@11   = ~Au auuu Moddie müüde!~ [Z_Modd7]
+@12   = ~(springt)~
+@13   = ~Avvv!~ [Z_Modd9]
+@14   = ~Arrr!~ [Z_Modd10]
+@15   = ~Au! fresse eure Knööchel!~ [Z_Modd11]
+@16   = ~(faucht) Ahahahaha!~ [Z_Modd12]
+@17   = ~eu!~ [Z_Modd13]
+@18   = ~Ihr- lasst- Moddie- sterben.  Ihr sollt- in der Hölle- verbrennen...~ [Z_Modd14]
+@19   = ~Moddie...verletzt~ [Z_Modd14]
+@20   = ~Moddie lebte einst im Wald!~ [Z_Modd15]
+@21   = ~Stadt stinkt.~ [Z_Modd16]
+@22   = ~Es ist duunkel.  Der Meisterr kommt zu foltern uns...~ [Z_Modd17]
+@23   = ~Felll glänzt im Licht!~ [Z_Modd18]
+@24   = ~Moddie versteckt sich heute Nacht~ [Z_Modd19]
+@25   = ~Was?~ [Z_Modd20]
+@26   = ~Uuu?~ [Z_Modd21]
+@27   = ~Miau?  Oh, wiederr falscher Text~ [Z_Modd22]
+@28   = ~Ja?~ [Z_Modd23]
+@29   = ~Auuu?~ [Z_Modd24]
+@30   = ~Nicht der Fuchs!~ [Z_Modd25]
+@31   = ~Av!~ [Z_Modd26]
+@32   = ~Oooh, schööön!~ [Z_Modd27]
+@33   = ~JA?~ [Z_Modd28]
+@34   = ~Gebt mirrr zu Essen und ich machs.~ [Z_Modd29]
+@35   = ~Kann Moddie nicht lieber in eurem Rucksack sitzen?~ [Z_Modd30]
+@36   = ~Um, gut, gut.~ [Z_Modd31]
+@37   = ~Schickt nicht Moddie.  Moddie macht Sachen kaputt.~ [Z_Modd32]
+@38   = ~Füchs-sin.~ [Z_Modd33]
+@39   = ~Moddie hat ihrrr Fell gesäubert.~ [Z_Modd34]
+@40   = ~Arrrr!~ [Z_Modd35]
+@41   = ~Ah.~ [Z_Modd36]
+@42   = ~Arrr, kann sie nicht verletzen!~ [Z_Modd37]
+@43   = ~Moddie lässt es fallen.~ [Z_Modd38]
+@44   = ~Hierrr, bitte.~ [Z_Modd39]
+@45   = ~Auu.  Moddie gut versteckt.~ [Z_Modd40]
+@46   = ~Moddie kein Zaub-berer.~ [Z_Modd41]
+@47   = ~Moddie hat eine Fuchs-Falle gesetzt!~ [Z_Modd42]
+@48   = ~Wenn Ihr sie nach ihrer Vergangenheit fragt, richtet MODDIE ihre Ohren auf und tut so, als ob sie nicht sprechen könnte.~

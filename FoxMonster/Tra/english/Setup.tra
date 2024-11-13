@@ -1,0 +1,53 @@
+@0    = ~Moddie, "the fox monster in your backpack"~
+@1    = ~Master's note~
+@2    = ~This note says "Moddie" at the top. It seems attached to the animal's fur, but you can remove it. The writings are in a scramble. This was clearly some kind of reminder for the author.
+
+"The fox has been a good test subject by behavior but bad by results. The purpose of the experiment has not been fulfilled but instead, it can now change into a werewolf-alike monster and is able to speak in human tongue as well as hold a weapon. I wonder if it was the serum and enchantments or the nature of the animal responsible for this petty failure.
+
+I will have to find a proper place for it down here, a spiked pit rather than a cage. But I am too busy with the Bhaalspawn at the moment--"~
+@3    = ~Moddie~
+@4    = ~Ouu!~ [Z_Modd1]
+@5    = ~*squeek!*~ [Z_Modd1]
+@6    = ~Fine herre...~ [Z_Modd2]
+@7    = ~Rrrr...~ [Z_Modd3]
+@8    = ~Av!~ [Z_Modd4]
+@9    = ~Hate you alll.~ [Z_Modd5]
+@10   = ~(evil laughter)~ [Z_Modd6]
+@11   = ~Au auuu Moddie tirred!~ [Z_Modd7]
+@12   = ~(jumps)~
+@13   = ~Avvv!~ [Z_Modd9]
+@14   = ~Arrr!~ [Z_Modd10]
+@15   = ~Au!  eat your ankless!~ [Z_Modd11]
+@16   = ~(snort) Ahahahaha!~ [Z_Modd12]
+@17   = ~eu!~ [Z_Modd13]
+@18   = ~You- let- Moddie- die.  May you- burn in- hells...~ [Z_Modd14]
+@19   = ~Moddie...hurt~ [Z_Modd14]
+@20   = ~Moddie once lived in forrest!~ [Z_Modd15]
+@21   = ~City stink.~ [Z_Modd16]
+@22   = ~It's darrk.  Masterr come will to torture us...~ [Z_Modd17]
+@23   = ~Furr shine in light!~ [Z_Modd18]
+@24   = ~Moddie hide tonight~ [Z_Modd19]
+@25   = ~What?~ [Z_Modd20]
+@26   = ~Uuu?~ [Z_Modd21]
+@27   = ~Meow?  Oh, wrrong line again~ [Z_Modd22]
+@28   = ~Aye?~ [Z_Modd23]
+@29   = ~Auuu?~ [Z_Modd24]
+@30   = ~Not the fox!~ [Z_Modd25]
+@31   = ~Av!~ [Z_Modd26]
+@32   = ~Oooh, niiice!~ [Z_Modd27]
+@33   = ~Aye?~ [Z_Modd28]
+@34   = ~Grrant me food and I will do it.~ [Z_Modd29]
+@35   = ~Can't Moddie sit in your backpack instead?~ [Z_Modd30]
+@36   = ~Um, right, right.~ [Z_Modd31]
+@37   = ~Don't send Moddie.  Moddie breaks stuff.~ [Z_Modd32]
+@38   = ~Vix-xen.~ [Z_Modd33]
+@39   = ~Moddie just cleaned her furrr.~ [Z_Modd34]
+@40   = ~Arrrr!~ [Z_Modd35]
+@41   = ~Ah.~ [Z_Modd36]
+@42   = ~Arrr, can't hurt them!~ [Z_Modd37]
+@43   = ~Moddie will drop it.~ [Z_Modd38]
+@44   = ~Herre it iss.~ [Z_Modd39]
+@45   = ~Auu.  Moddie hidden well.~ [Z_Modd40]
+@46   = ~Moddie not a wiz-zard.~ [Z_Modd41]
+@47   = ~Moddie set a fox trap!~ [Z_Modd42]
+@48   = ~When you ask about her past, MODDIE straightens her ears and starts pretending she can't speak.~

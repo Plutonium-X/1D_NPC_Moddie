@@ -1,0 +1,53 @@
+@0  = ~Moddie, "le monstre loup dans votre sac a dos".~
+@1  = ~Note du maître~
+@2 = ~Cette note indique "Moddie" en haut. Elle semble attachée à la fourrure de l'animal, mais vous pouvez l'enlever. Les écritures sont confuses. Il s'agit manifestement d'une sorte de pense-bête pour l'auteur.
+
+"Le loup a été un bon sujet d'expérience par son comportement, mais mauvais par ses résultats. Le but de l'expérience n'a pas été atteint, mais au lieu de cela, il peut maintenant se transformer en un monstre ressemblant à un loup-garou et est capable de parler en langue commune ainsi que de tenir une arme. Je me demande si c'est le sérum et les enchantements ou la nature de l'animal qui sont responsables de cet échec.
+
+Il va falloir que je lui trouve un endroit approprié ici, une fosse hérissée de pointes plutôt qu'une cage. Mais je suis trop occupé avec l'enfant de Bhaal pour le moment..."~
+@3  = ~Moddie~
+@4  = ~Ouu !~ [Z_Modd1]
+@5  = ~*squeek !*~ [Z_Modd1]
+@6  = ~Tout va bien...~ [Z_Modd2]
+@7  = ~Rrrr...~ [Z_Modd3]
+@8  = ~Av !~ [Z_Modd4]
+@9  = ~Vous hais tous.~ [Z_Modd5]
+@10  = ~(rire diabolique)~ [Z_Modd6]
+@11  = ~(baille) Moddie fatiguée !~ [Z_Modd7]
+@12  = ~(saute)~
+@13  = ~Avvv !~ [Z_Modd9]
+@14  = ~Arrr !~ [Z_Modd10]
+@15  = ~Au ! mange tes chevilles !~ [Z_Modd11]
+@16  = ~(s'ébroue) Ahahahaha!~ [Z_Modd12]
+@17  = ~Heu !~ [Z_Modd13]
+@18  = ~Tu- as laissé- Moddie- mourir. Puisses- tu brûler en- enfer...~ [Z_Modd14]
+@19  = ~Moddie...blessée~ [Z_Modd14]
+@20  = ~Moddie a vécu dans la forrêt !~ [Z_Modd15]
+@21  = ~Ville pue.~ [Z_Modd16]
+@22  = ~Il fait noirr. Le maîtrre est venu pour nous torturrer...~ [Z_Modd17]
+@23  = ~Fourrurre brille dans la lumière !~ [Z_Modd18]
+@24  = ~Moddie se cache ce soir~ [Z_Modd19]
+@25  = ~Quoi ?~ [Z_Modd20]
+@26  = ~Uuu ?~ [Z_Modd21]
+@27  = ~Miaou ? Oh, encore une erreur de ligne~ [Z_Modd22]
+@28  = ~Ouui ?~ [Z_Modd23]
+@29  = ~Auuu ?~ [Z_Modd24]
+@30  = ~Pas le loup !~ [Z_Modd25]
+@31  = ~Av !~ [Z_Modd26]
+@32  = ~Oooh, Biien !~ [Z_Modd27]
+@33  = ~Ouui ?~ [Z_Modd28]
+@34  = ~Donnez-moi à manger et je le ferai.~ [Z_Modd29]
+@35  = ~Moddie peut-elle pas voyager dans ton sac à dos à la place ?~ [Z_Modd30]
+@36  = ~Hum, d'accord, d'accord.~ [Z_Modd31]
+@37  = ~N'envoies pas Moddie. Moddie casse tout.~ [Z_Modd32]
+@38  = ~Lou-ve.~ [Z_Modd33]
+@39  = ~Moddie vient de nettoyer sa fourrurre.~ [Z_Modd34]
+@40  = ~Arrrr !~ [Z_Modd35]
+@41  = ~Ah.~ [Z_Modd36]
+@42  = ~Arrr, peux pas les blesser !~ [Z_Modd37]
+@43  = ~Moddie va lâcher ça.~ [Z_Modd38]
+@44  = ~Voilà.~ [Z_Modd39]
+@45  = ~Auu. Moddie bien cachée.~ [Z_Modd40]
+@46  = ~Moddie pas ma-ge.~ [Z_Modd41]
+@47  = ~Moddie tendu piège de loup !~ [Z_Modd42]
+@48  = ~Quand vous lui posez des questions sur son passé, MODDIE dresse les oreilles et fait semblant de ne pas pouvoir parler.~
