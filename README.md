@@ -5,6 +5,7 @@ Elle vous attend dans le donjon d'Irenicus, derrière le premier golem gardien.
 Particularité :
 - Elle a peu de dialogues (tous orientés "animal de compagnie") et très peu de banters.
 - Classe : voleuse
+- CA de base : 5
 - 2x par jour Charme animal
 - 1x par jour Charme personne
 - 2x par jour Se tranformer en Loup-Garou
