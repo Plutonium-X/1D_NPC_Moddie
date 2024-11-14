@@ -1,4 +1,4 @@
-# Moddie la louve métamorphe
+# Moddie la louve voleuse métamorphe
 
 Elle vous attend dans le donjon d'Irenicus, derrière le premier golem gardien.
 
@@ -7,14 +7,14 @@ Particularité :
 - Bien que louve, elle est gérée comme un compagnon normal (place dans le groupe, inventaire, équipement)
 - Classe : voleuse
 - CA de base : 5
-- 2x par jour Charme animal
-- 1x par jour Charme personne
-- 2x par jour Se tranformer en Loup-Garou
-- 1x par jour Se tranformer en Grand Loup-Garou
+- 2x par jour Charme animal (au contact)
+- 1x par jour Charme personne (au contact)
+- 2x par jour Métamorphose. en Loup-Garou
+- 1x par jour Métamorphose. en Grand Loup-Garou
 - RM 20%
 - +1/2 APR
 - Mouvement +2
 
 Notes 
 - Moddie est pensée comme étant une renarde. Mais son animation est celle d'un loup (gris), son portrait est celui d'un blaireau (gris), sa métamorphe est en loup-garou, alors pour la concordance avec tous ces faits, la traduction française en a fait une louve.
-- Sa RM est remplacée par la RM de sa forme de loup-garou quand elle se transforme. Sauf si vous installez une correction pour les formes de loup garou, disponibles dans Tweak Anthology ou SCS; dans ce cas elle se cumule.
+- Sa RM est remplacée par la RM de sa forme de loup-garou quand elle se métamorphose. Sauf si vous installez une correction pour les formes de loup garou, disponibles dans Tweak Anthology ou SCS; dans ce cas elle se cumule.
