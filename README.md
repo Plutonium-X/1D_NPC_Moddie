@@ -11,9 +11,9 @@ Particularité :
 - 1x par jour Charme personne
 - 2x par jour Se tranformer en Loup-Garou
 - 1x par jour Se tranformer en Grand Loup-Garou
-- 20% de RM
+- RM 20%
 - +1/2 APR
-- +2 en mouvement
+- Mouvement +2
 
 Notes 
 - Moddie est pensée comme étant une renarde. Mais son animation est celle d'un loup (gris), son portrait est celui d'un blaireau (gris), sa métamorphe est en loup-garou, alors pour la concordance avec tous ces faits, la traduction française en a fait une louve.
