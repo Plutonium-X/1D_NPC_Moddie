@@ -4,7 +4,7 @@ Elle vous attend dans le donjon d'Irenicus, derrière le premier golem gardien.
 
 Particularité :
 - Elle a peu de dialogues (tous orientés "animal de compagnie") et très peu de banters.
-- - Bien que louve, elle est gérée comme un compagnon normal (place dans le groupe, inventaire, équipement)
+- Bien que louve, elle est gérée comme un compagnon normal (place dans le groupe, inventaire, équipement)
 - Classe : voleuse
 - CA de base : 5
 - 2x par jour Charme animal
