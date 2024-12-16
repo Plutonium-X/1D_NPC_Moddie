@@ -1,4 +1,4 @@
-@0 = ~Maîtrre ? Savez-vous pourquoi Moddie parle ?~
+@0 = ~Maîtrre ? Savez-vous pourquoi Moddie parle ?~~Maîtrresse ? Savez-vous pourquoi Moddie parle ?~
 @1 = ~Irenicus, le grand méchant magicien, t'a fait quelque chose, n'est-ce pas ?~
 @2 = ~Parce que Moddie est si gentille, si mignonne et si intelligente ?~
 @3 = ~Parce qu'elle a découvert que c'était le moyen le plus efficace d'obtenir de la nourriture de la part de personnes sentimentales ?~
@@ -33,17 +33,17 @@
 @32 = ~(heureuse) Ouu ! Merci Maîtrre... (Elle se jette sur le morceau de nourriture.)~~(heureuse) Ouu ! Merci Maîtrresse... (Elle se jette sur le morceau de nourriture.)~
 @33 = ~(déçue) Auuu. Moddie trouvera bien quelque chose elle-même...~
 @34 = ~Crois-tu Moddie bonne pour toi ?~
-@35 = ~Mais bien sûr ! Moddie est si...euh... bonne pour moi !~
+@35 = ~Mais bien sûr ! Moddie est si...euh... gentille avec moi !~
 @36 = ~Oui, mais je crains que se ne soit que pour la nourriture !~
 @37 = ~Non, tu es une louve très mal élevée !~
-@38 = ~(Elle saute joyeusement.) Ou ! Maîtrre bon pour Moddie aussi.~~(Elle saute joyeusement.) Ou ! Maîtrresse bon pour Moddie aussi.~
+@38 = ~(Elle saute joyeusement.) Ou ! Maîtrre gentil avec Moddie aussi.~~(Elle saute joyeusement.) Ou ! Maîtrresse gentille avec Moddie aussi.~
 @39 = ~Et... entre autres choses, cela veut dire que Moddie doit manger ?~
 @40 = ~Et bien, j'en suis heureux, Moddie. Allons-y.~~Et bien, j'en suis heureuse, Moddie. Allons-y.~
-@41 = ~Quoooi ? Non, Moddie pas bonne pour maîtrre uniquement pour nourriture !~~Quoooi ? Non, Moddie pas bonne pour maîtrresse uniquement pour nourriture !~
+@41 = ~Quoooi ? Non, Moddie pas gentille avec pour maîtrre uniquement pour nourriture !~~Quoooi ? Non, Moddie pas gentille avec maîtrresse uniquement pour nourriture !~
 @42 = ~Et si je te récompensais avec ce beau morceau de viande ?~
 @43 = ~Si tu le dis...~
 @44 = ~Ouu. Maîtrre rude. Mais Moddie suivra maître tant que voudra...~~Ouu. Maîtrresse rude. Mais Moddie suivra maîtresse tant que voudra...~
-@45 = ~Ouui. Maîtrre confiance Moddie...~~Ouui. Maîtrresse confiance Moddie...~
+@45 = ~Ouui. Maîtrre fait confiance Moddie...~~Ouui. Maîtrresse fait confiance Moddie...~
 @46 = ~Auu ! (Elle saute sur la viande.)~
 @47 = ~(Mettre ça hors de sa vue.) Maintenant, tu as montré ton vrai visage, petite menteuse !~
 @48 = ~(Laissez tomber la viande, soupirer) Parlons de la dévotion d'un compagnon...~
@@ -60,7 +60,7 @@
 @59 = ~(soupir)~
 @60 = ~<CHARNAME>, mon pote, quand est-ce qu'on va faire cuire le loup ?~
 @61 = ~Baik ?? (Elle se cache derrière vous.)~
-@62 = ~C'est un sale loup, et en plus, c'est un lâche ! Je l'aurais moi-même fait rôtir s'il n'avait pas été capable de se transformer en monstre.~
+@62 = ~C'est un sale loup, et en plus, c'est un lâche ! Je l'aurais moi-même fait rôtir s'il avait pas été capable de se transformer en monstre.~
 @63 = ~Arrrr ! (Moddie prend la pose du loup-garou.)~
 @64 = ~(Korgan lève sa hache.) Je n'ai pas dit que je ne pouvais pas gagner le combat, tête de chien, je m'interrogeais sur le goût de ta viande pervertie par la magie !~
 @65 = ~Ça suffit, Korgan, elle n'est pas bonne à manger.~
@@ -98,8 +98,8 @@
 @97 = ~Moddie amie. Moddie aime l'homme des bois. Pourquoi l'homme des bois n'aime pas Moddie ?~
 @98 = ~Je préfère ne pas y penser.~
 @99 = ~Si Moddie famille, famille forrte, comme Moddie. Pas de mal là-dedans.~
-@100 = ~Et Moddie aime l'homme de bois. Pourquoi l'homme des bois aime pas Moddie ?~
-@101 = ~Ouui. Moddie amie. Moddie aime l'homme des bois. Pourquoi l'homme des bois aime pas Moddie ?~
+@100 = ~Et Moddie aime homme de bois. Pourquoi homme des bois aime pas Moddie ?~
+@101 = ~Ouui. Moddie amie. Moddie aime homme des bois. Pourquoi homme des bois aime pas Moddie ?~
 @102 = ~Il ne s'agit pas de t'aimer ou de ne pas t'aimer. Je suis simplement prudent quant à tes pouvoirs, rien de plus.~
 @103 = ~Bouh ? Où est-il passé ?~
 @104 = ~Bouh a disparu ! Et juste au moment où je pensais que je ne laisserais plus jamais tomber un ami ! Bouh !~
