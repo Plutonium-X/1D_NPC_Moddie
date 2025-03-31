@@ -5,12 +5,11 @@ Elle vous attend dans le donjon d'Irenicus, derrière le premier golem gardien.
 Particularité :
 - Elle a peu de dialogues (tous orientés "animal de compagnie") et très peu de banters.
 - Bien que louve, elle est gérée comme un compagnon normal (place dans le groupe, inventaire, équipement)
-- Classe : voleuse
 - CA de base : 5
 - 2x par jour Charme animal (au contact)
 - 1x par jour Charme personne (au contact)
-- 2x par jour Métamorphose. en Loup-Garou (Comme Cern mais avec une armure ^^)
-- 1x par jour Métamorphose. en Grand Loup-Garou
+- 2x par jour Métamorphose en Loup-Garou (Comme Cern mais avec une armure ^^)
+- 1x par jour Métamorphose en Grand Loup-Garou
 - RM 20%
 - +1/2 APR
 - Mouvement +2
