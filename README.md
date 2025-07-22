@@ -2,7 +2,8 @@
 
 Elle vous attend dans le donjon d'Irenicus, derrière le premier golem gardien.
 
-Particularité :
+Particularités :
+- Caractéristiques : force 13, dextérité 18, endurance 16, intelligence 9, sagesse 13, charisme 11.
 - Elle a peu de dialogues (tous orientés "animal de compagnie") et très peu de banters.
 - Bien que louve, elle est gérée comme un compagnon normal (place dans le groupe, inventaire, équipement)
 - CA de base : 5
