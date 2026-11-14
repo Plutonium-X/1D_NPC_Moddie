@@ -33,6 +33,10 @@ LANGUAGE ~Francais (par Deratiseur)~
          ~french~
          ~FoxMonster/tra/french/Setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~FoxMonster/Tra/schinese/Setup.tra~
+
 BEGIN @0
 
 
